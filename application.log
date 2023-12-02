@@ -1,0 +1,2 @@
+2023-08-29T16:43:29.765+07:00  WARN 12640 --- [main] p.belajarspringlogging.LoggingTest       : Belajar Spring
+2023-08-29T16:43:29.775+07:00 ERROR 12640 --- [main] p.belajarspringlogging.LoggingTest       : Belajar Programmer Zaman Now
